@@ -1,4 +1,4 @@
-# infectious-LstmKerasMethod-01
+# Predicting-Infectious-Rate-using-Lstm-Keras-Method
 
 This repo contain 5 files: 2 double files contain both the codes (ipynb) and html file knitted. 1 pdf file documented motivation and results from prediction.
 Predicting Covid using two methods: 
